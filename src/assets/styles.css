@@ -1,18 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Playfair+Display&display=swap');
 
-#loader {
-    position: fixed;
-    width: 100%;
-    height: 100vh;
-    z-index: 1;
-    overflow: visible;
-    background: #e1dfdb url('./imgs/chefjesintro.gif') no-repeat center center;
-}
-
-#content {
-    display: none;
-}
-
 
 p {
     font-family: 'Open Sans', sans-serif;
