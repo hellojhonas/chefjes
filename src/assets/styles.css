@@ -9,6 +9,10 @@
     background: #e1dfdb url('./imgs/chefjesintro.gif') no-repeat center center;
 }
 
+#content {
+    display: none;
+}
+
 
 p {
     font-family: 'Open Sans', sans-serif;
